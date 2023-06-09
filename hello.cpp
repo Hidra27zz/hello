@@ -4,7 +4,6 @@ int main() {
     int n;
     cin >> n;
 
-    cout << endl <<n;
-    
+    cout << endl <<n + 1;   
         return 0;
 }
